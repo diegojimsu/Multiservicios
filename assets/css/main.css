@@ -2723,3 +2723,8 @@ nav ul a:hover {
 nav{
  line-height: normal; 
 }
+@media only screen and (max-width: 1279px) {
+  .navbar{
+    width: 100%;
+  }
+}
